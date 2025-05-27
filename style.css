@@ -19,7 +19,6 @@ body, p, button, input, textarea, .dropdown-item {
     font-family: 'Oswald', sans-serif !important;
     color: rgba(255, 255, 255, 0.8);
     font-weight: 500;
-    padding: 0.5rem 0.6rem;
     transition: var(--transition);
 }
 
